@@ -1,0 +1,118 @@
+body{
+    background-color: white;
+    /* font-family: 'Chivo', sans-serif; */
+}
+
+
+.container{
+    width: 950px;
+    height: 670px;
+    margin: auto;
+    box-shadow: 0px 0px 10px #000;
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.left{
+    width: 15%;
+    height: 100%;
+    float: left;
+    
+}
+
+.right{
+    width: 82%;
+    height: 100%;
+    float: right;
+    padding-left: 20px;
+}
+
+.tag {
+    /* display: inline-block; */
+    height: 90px;
+    float: right;
+    margin-right: 35px;
+    margin-top: 0;
+    position: relative;
+    width: 130px;
+  }
+  
+
+  .smart{
+      margin-top: 30px;
+      margin-left: 20px;
+  }
+
+  .head{
+    margin-top: 50px;
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .date{
+    font-size: 15px;
+    margin-top: 10px;
+    color: rgb(78, 78, 78);
+    /* text-shadow: rgb(104, 104, 104) 0px 0px 1px; */
+  }
+
+  .name{
+    font-size: 35px;
+    margin-top: 20px;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-weight: 900;
+    font-family: 'Archivo Black', sans-serif;
+  }
+
+  .title{
+    font-size: 28px;
+    margin-top: 15px;
+    width: 500px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Helvetica', sans-serif;
+  }
+
+  .description{
+    width: 460px;
+    font-size: 15px;
+    color: rgb(48, 48, 48);
+    
+    }
+
+    ul{
+        list-style-type: none;
+        font-weight: lighter;
+        padding: 0; /* Remove padding */
+        margin: 0;
+        color: rgb(112, 112, 112);
+        
+    }
+
+    .modules{
+        font-size: 12px;
+        display: flex;
+        font-family: 'Chivo', sans-serif;
+        font-weight: lighter;
+    }
+
+    .rc{
+        margin-left: 145px;     
+        margin-top: -150px;    
+        justify-items: center;
+    }
+
+    .cred{
+        margin-top: 10px;
+        font-weight: bolder;
+        color: rgb(0, 0, 0);
+
+    }
+
+    .sign{
+       margin-left: 70px;
+    }
