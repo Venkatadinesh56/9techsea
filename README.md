@@ -2,7 +2,7 @@
 
 ## Introduction
 
-9Techsea is a dynamic tech solutions company specializing in cutting-edge software development, IT consulting, and innovative digital transformations.Our team of expert developers and consultants work closely with clients to deliver tailored solutions that drive success and growth. Discover the future of technology with 9Techsea.
+9Techsea is a dynamic tech solutions company specializing in cutting-edge software development, IT consulting, and innovative digital transformations.Our team of expert developers and consultants work closely with clients to deliver tailored solutions that drive success and growth. Discover the future of technology with 9Techsea. 
 
 ## Technologies Used
 
