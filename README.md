@@ -20,3 +20,11 @@
 ![Home Page](https://i.postimg.cc/Vvrf16Jr/Screenshot-2024-07-16-120911.png)
 ![Home Page](https://i.postimg.cc/zvsJfrhd/Screenshot-2024-07-16-120924.png)
 
+### About Page
+![About Page](https://i.postimg.cc/g2KNjGBd/Screenshot-2024-07-18-210532.png)
+![About Page](https://i.postimg.cc/ZY97Ht0F/Screenshot-2024-07-18-210300.png)
+![About Page](https://i.postimg.cc/6qDQxJNG/Screenshot-2024-07-18-210336.png)
+![About Page](https://i.postimg.cc/QCPqLttk/Screenshot-2024-07-18-210411.png)
+![About Page](https://i.postimg.cc/ZKpfk88W/Screenshot-2024-07-18-210459.png)
+![About Page](https://i.postimg.cc/3R0RSJsH/Screenshot-2024-07-18-210513.png)
+
