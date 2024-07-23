@@ -40,6 +40,7 @@ function Home() {
                       &nbsp;&nbsp;&nbsp;&nbsp;
                <a href=""><img height={20} src={img14}></img></a>  &nbsp;&nbsp;&nbsp;&nbsp;
                <a href=""><img height={20} src={img15}></img></a>    &nbsp;&nbsp;&nbsp;&nbsp;  
+   
                <a href=""><img height={20} src={img16}></img></a>   
                
                </float>
