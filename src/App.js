@@ -14,6 +14,7 @@ const App = () => {
        <Routes>
     
         <Route path="/" exact Component={Home} />
+    
         <Route path='/About' exact Component={About}/>
         <Route path="/Services" exact Component={Services}/>
         <Route path="/Contact" exact Component={Contact}/>
