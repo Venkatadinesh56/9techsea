@@ -18,7 +18,7 @@
 ![Home Page](https://i.postimg.cc/fbDRXDrp/Screenshot-2024-07-16-120756.png)
 ![Home Page](https://i.postimg.cc/zBPz9WGY/Screenshot-2024-07-16-120829.png)
 ![Home Page](https://i.postimg.cc/0QP04Lnr/Screenshot-2024-07-16-120846.png)
-![Home Page](https://i.postimg.cc/Vvrf16Jr/Screenshot-2024-07-16-120911.png)
+![Home Page](https://i.postimg.cc/3r62MMMz/Screenshot-2024-07-16-120911.png)
 ![Home Page](https://i.postimg.cc/zvsJfrhd/Screenshot-2024-07-16-120924.png)
 
 ### About Page
