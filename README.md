@@ -11,6 +11,7 @@
 - CSS
 
 ## Screenshots
+
 ### Home page
 
 ![Home Page](https://i.postimg.cc/GmkpHHqv/Screenshot-2024-07-16-120626.png)
