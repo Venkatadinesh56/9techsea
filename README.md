@@ -6,7 +6,6 @@
 
 ## Technologies Used
 
-
 - React js
 - CSS
 
