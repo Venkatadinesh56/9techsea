@@ -13,7 +13,7 @@
 ## Screenshots
 
 
-### Home page
+## Home page
 
 <img src="https://drive.usercontent.google.com/download?id=1DUoyuRLXIiVF4QbdypWXLJDYyvyw7Jko&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
 <img src="https://drive.usercontent.google.com/download?id=1mRIAIZdl2WmlhhX4ml7RrnIejiMp8Qjh&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
@@ -26,7 +26,7 @@
 
 
 
-### About Page
+## About Page
 ![About Page](https://i.postimg.cc/mZcSF4qg/Screenshot-2024-07-18-210239.png).
 ![About Page](https://i.postimg.cc/PrfDVJz6/Screenshot-2024-07-18-210300.png)
 ![About Page](https://i.postimg.cc/6qDQxJNG/Screenshot-2024-07-18-210336.png)
@@ -34,7 +34,7 @@
 ![About Page](https://i.postimg.cc/ZKpfk88W/Screenshot-2024-07-18-210459.png)
 ![About Page](https://i.postimg.cc/3R0RSJsH/Screenshot-2024-07-18-210513.png)
 
-<h3>Services</h3>
+<h2>Services</h2>
 <img src="https://drive.usercontent.google.com/download?id=1d624YAkPPZy27knxwjg6RYqGpDzbm041&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
 <img src="https://drive.usercontent.google.com/download?id=1dGgoAiXQcrUoGXptSPAgTi8o6seBKzXL&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
 <img src="https://drive.usercontent.google.com/download?id=1-9V3NIKSggayPP1Uk1aEqsoFEtbaXvOe&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
