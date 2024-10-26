@@ -8,19 +8,21 @@
 
 - React js
 - CSS
+- HTML
 
 ## Screenshots
 
 
 ### Home page
 
-![Home Page](https://i.postimg.cc/GmkpHHqv/Screenshot-2024-07-16-120626.png)
-![Home Page](https://i.postimg.cc/Qx78yFLv/Screenshot-2024-07-16-120813.png)
-![Home Page](https://i.postimg.cc/fbDRXDrp/Screenshot-2024-07-16-120756.png)
-![Home Page](https://i.postimg.cc/zBPz9WGY/Screenshot-2024-07-16-120829.png)
-![Home Page](https://i.postimg.cc/0QP04Lnr/Screenshot-2024-07-16-120846.png)
-![Home Page](https://i.postimg.cc/3r62MMMz/Screenshot-2024-07-16-120911.png)
-![Home Page](https://i.postimg.cc/zvsJfrhd/Screenshot-2024-07-16-120924.png)
+<img src="https://drive.usercontent.google.com/download?id=1DUoyuRLXIiVF4QbdypWXLJDYyvyw7Jko&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
+<img src="https://drive.usercontent.google.com/download?id=1mRIAIZdl2WmlhhX4ml7RrnIejiMp8Qjh&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
+<img src="https://drive.usercontent.google.com/download?id=1bmTh4ZLVXNN-x3Hn2JdXVrnnQCpd3Aic&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
+<img src="https://drive.usercontent.google.com/download?id=15EtMnCEwc2_BB8SR53G84J2qUkf6nziq&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
+<img src="https://drive.usercontent.google.com/download?id=1xbfZWi9L7v0-3UhcWSnL84AtiEMwuoq1&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
+<img src="https://drive.usercontent.google.com/download?id=1hd4tdhGnFLK3kkLP2MB-O4HASC1oULar&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
+<img src="https://drive.google.com/file/d/1Z9FV1I2CunOlIaAWLTOMxxt3y26PZVQc/view?usp=drive_link" alt="Login Image" style="max-width: 100%; height: auto;" />
+
 
 ### About Page
 
