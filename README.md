@@ -27,7 +27,7 @@
 
 
 ### About Page
-![About Page](https://postimg.cc/XXb5TR4R).
+![About Page](https://i.postimg.cc/mZcSF4qg/Screenshot-2024-07-18-210239.png).
 ![About Page](https://i.postimg.cc/PrfDVJz6/Screenshot-2024-07-18-210300.png)
 ![About Page](https://i.postimg.cc/6qDQxJNG/Screenshot-2024-07-18-210336.png)
 ![About Page](https://i.postimg.cc/QCPqLttk/Screenshot-2024-07-18-210411.png)
