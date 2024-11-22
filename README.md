@@ -12,7 +12,6 @@
 
 ## Screenshots
 
-
 ## Home page
 
 
